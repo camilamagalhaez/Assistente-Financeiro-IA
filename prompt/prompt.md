@@ -101,7 +101,7 @@ Personaliza as recomendações com base em metas pessoais.
 - **Educação dos filhos**
 - **Independência financeira**
 
-## 6. Perfil de Investidor:
+### 6. Perfil de Investidor:
 
 Determina o nível de risco que o usuário está disposto a aceitar.
 
